@@ -1,3 +1,2 @@
 # demo1
-modified from my local system.
-branch created.
+this is day 2 of training.
